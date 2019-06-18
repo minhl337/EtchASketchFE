@@ -11,8 +11,7 @@ To get started:
 
 1) Get the back end up. Instructions are on the readme in the link provided above.
 
-2)
-change the following line inside index.js to match your domain and port.
+2) Change the following line inside index.js to match your domain and port.
 ```ruby
 const baseUrl = "http://localhost:3000/api/v1"
 ```
