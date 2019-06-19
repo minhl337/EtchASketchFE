@@ -23,4 +23,5 @@ You can use the right knob or ← or → or arrows to move the cursor LEFT/RIGHT
 It works just like a real Etch-A-Sketch so try expermenting with multiple directional inputs!
 Enjoy.
 
-
+Video of running application:
+https://youtu.be/AFdqrJzG5_8
