@@ -6,6 +6,7 @@ Built By Minh Chau Ha and Ryan Denlinger
 This is the Front end for Etch-A-Fetch.
 
 Back end link: https://github.com/minhl337/EtchASketchBE
+
 Deployed link: https://etchafetch.herokuapp.com/
 
 To get started:
